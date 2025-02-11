@@ -185,9 +185,9 @@ This repository contains the progress and work done for the Java learning journe
 
 ## Date: 10-02-2025
 
-    Learn about Abstract classes and Interfaces deeply
-    Typecasting object in Interface
-    Completed all the practice problems of Assignment named 'Submission of Encapsulation, Polymorphism, Interface and Abstract Class' and pushed solutions in given branch in Github Repo.
+   - Learn about Abstract classes and Interfaces deeply
+   - Typecasting object in Interface
+   - Completed all the practice problems of Assignment named 'Submission of Encapsulation, Polymorphism, Interface and Abstract Class' and pushed solutions in given branch in Github Repo.
 
 
 
