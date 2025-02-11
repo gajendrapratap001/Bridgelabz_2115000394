@@ -124,4 +124,70 @@ This repository contains the progress and work done for the Java learning journe
 ## Date: 01-02-2025
     Successfully completed all Lab practice problems of 'Java Constructors, Instance vs. Class Variables, Access Modifiers' Assignment and push here in Github Repo.
 
+## Date: 03-02-2025
+
+    Go through from the Documentation and covered below topics.
+        'this' keyword & its common uses
+        'static' keyword features, advantages and disadvantages
+        Best Practice for Using 'static' keyword
+        'instanceOf' operator
+    Started and solved 3 problems of the 'Java this, static, final keywords & instanceof operator' Lab Practice Assignment.
+
+## Date: 04-02-2025
+
+    Successfully completed all practice problems of 'Java this, static, final key words and instanceof operator' Lab Practice Assignment and push here in Github Repo.
+    Covered topics from Object Modeling Documentation
+        Classes vs. Objects in Java
+        Classes vs. Objects in a Project
+        Association, Aggregation and Composition
+
+## Date: 05-02-2025
+
+    Deep-dive more about the Association, Aggregation and Composition
+    Go through documenation of Object Oriented Design Principles
+        Class Diagram
+        Object Diagram
+        Sequence Diagram
+    Completed half of the problems of the 'Object Modeling' Assignment.
+
+## Date: 06-02-2025
+
+    Completed all practice problems of 'Object Modeling' Assignment and push in this branch in Github Repo.
+    Go through the documentation of Inheritance
+        Inheritance and its Types
+        Key Features of Inheritance
+        Override Annotation
+        Constructor Inheritance
+        Method Overriding
+        Polymorphism and Inheritance
+        Access Modifiers and Inheritance
+    Completed all sample problems of 'Object Oriented Design' Assignment and push in this branch in Github Repo.
+
+## Date: 07-02-2025
+
+    Further Revision of already completed topics.
+    Go deep on some new topics:
+        Memory Areas in Java
+        CharSequence Interface and its implemented Classes
+            String
+            StringBuffer
+            StringBuilder
+            StringTokenizer
+        String Pool
+        Abstraction & Interface
+        How to Achieve Multiple Inheritance
+    Completed all the practice problems of 'Inheritance' Assignment and pushed solutions in given branch in Github Repo.
+
+## Date: 09-02-2025
+
+    Learn more about Encapsulation, Code Reusablity, Data hiding and Maintenance.
+    Learn about all types of Polymorphism and its use cases.
+
+## Date: 10-02-2025
+
+    Learn about Abstract classes and Interfaces deeply
+    Typecasting object in Interface
+    Completed all the practice problems of Assignment named 'Submission of Encapsulation, Polymorphism, Interface and Abstract Class' and pushed solutions in given branch in Github Repo.
+
+
 
