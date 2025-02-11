@@ -41,15 +41,15 @@ This repository contains the progress and work done for the Java learning journe
 	- Operator Precedence
 
 ## Date: 23-01-2025
-    Covered About the Java Control Flows
-        if-else
-        if-else if-else
-        for loop
-        for-each loop
-        while loop
-        do-while loop
+- Covered About the Java Control Flows
+      - if-else
+      - if-else if-else
+      - for loop
+      - for-each loop
+      - while loop
+      - do-while loop
 
-    Successfully completed all the Level-1, Level-2 and Level-3 practice problems of the Assignment 3 named 'Java Control Flow' and push here in Github.
+ - Successfully completed all the Level-1, Level-2 and Level-3 practice problems of the Assignment 3 named 'Java Control Flow' and push here in Github.
 
 ## Date: 24-01-2025
     Covered About the Java Arrays
